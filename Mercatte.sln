@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mercatte.Site", "Mercatte\M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mercatte.Tools", "Mercatte.Tools\Mercatte.Tools.csproj", "{6C4C06D0-6A58-4641-81CF-958E77A0457D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mercatte.Api", "Mercatte.Api\Mercatte.Api.csproj", "{679188D1-AE22-41C7-AD76-3187D6529E45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6C4C06D0-6A58-4641-81CF-958E77A0457D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C4C06D0-6A58-4641-81CF-958E77A0457D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C4C06D0-6A58-4641-81CF-958E77A0457D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{679188D1-AE22-41C7-AD76-3187D6529E45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679188D1-AE22-41C7-AD76-3187D6529E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679188D1-AE22-41C7-AD76-3187D6529E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679188D1-AE22-41C7-AD76-3187D6529E45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
